@@ -5,5 +5,5 @@
 - 🌱 I’m learning Web3...
 - 👯 I’m looking to collaborate on open-source-projects ...
 - 📫 How to reach me:
-<a href="https://shahabaz.tech">Portfolio Website</a> OR
+<a href="https://shahabaz.main">Portfolio Website</a> OR
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahabaz-kc-4ab5a5195/)
